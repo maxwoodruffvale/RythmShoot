@@ -1,7 +1,7 @@
 extends KinematicBody
 var MOVE_SPEED=12
 const JUMP_FORCE=16
-const GRAVITY=0.75
+const GRAVITY=0.4
 const MAX_FALL_SPEED=30
 
 const H_LOOK_SENS = 0.25
@@ -45,7 +45,7 @@ func play_song_and_shooters():
 		$songs/city_cut.play()
 
 var bouncing=false
-var bounce_force=30
+var bounce_force=35
 var actively_bouncing=false
 
 var move_vec_temp=Vector3()
