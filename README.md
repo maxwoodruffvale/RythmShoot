@@ -1,6 +1,6 @@
 # RythmShoot
-Work in progress game
-Shooter game but hots are automatically timed to songs!
-Currently too hard bcs cant find any slow but fun songs.
+
+3d platformer rythm shooter game. Made with Godot.
+
 Demo: https://maxvale.itch.io/rythm-shoot
 
